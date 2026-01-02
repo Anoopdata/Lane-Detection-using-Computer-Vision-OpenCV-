@@ -116,7 +116,15 @@ test_videos_output/
 | White Lane  | White lane detected  |
 | Yellow Lane | Yellow lane detected |
 
-*(Add screenshots or GIFs here if you want)*
+
+## 🎥 Output Demo
+
+### White Lane Detection
+![White Lane Detection](gifs/white_lane.gif)
+
+### Yellow Lane Detection
+![Yellow Lane Detection](gifs/yellow_lane.gif)
+
 
 ---
 
@@ -153,11 +161,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
-If you want, I can also:
 
-* ✅ Create a **GitHub-ready repo structure**
-* ✅ Modify this project for **airport runway center-line detection**
-* ✅ Add **center-line only detection**
-* ✅ Convert this into a **YOLO-based solution**
-
-Just tell me 👍
